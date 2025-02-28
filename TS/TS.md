@@ -1,7 +1,7 @@
 #  TS简介
 
 >Typed JavaScript at Any Scale.
->添加了类型系统的 JavaScript，适用于任何规模的项目。
+>添加了类型系统的 JavaScript，适用于任何规模的项目
 
 ### TypeScript 的特性
 
